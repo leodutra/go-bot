@@ -1,0 +1,18 @@
+{
+  "name": "go-bot-whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bun .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leodutra.br@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "jsonstream": "^1.0.3",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}

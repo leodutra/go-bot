@@ -1,0 +1,12 @@
+node_modules
+
+# whatsapp
+.wwebjs_auth
+temp-session.json
+tokens
+
+.prettierrc.json
+
+# git
+.git
+.gitignore

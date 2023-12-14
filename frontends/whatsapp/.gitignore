@@ -1,0 +1,6 @@
+node_modules/
+
+# whatsapp 
+.wwebjs_auth
+temp-session.json
+tokens/
